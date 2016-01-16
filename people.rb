@@ -9,10 +9,10 @@ class Person
     "#{greeting} #{name}"
   end
 
-
   # def greeting
   #   puts "Hi, my name is #{@name}"
   # end
+  
 end
 
 class Student < Person
