@@ -1,4 +1,6 @@
 
+# Now split it into parts!
+
 class Rover
 
   attr_accessor :x, :y, :dir # What about the rover's original position?
